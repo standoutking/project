@@ -60,7 +60,7 @@ line-height: 25px;}
   	<div class="title2">图书屋</div>
   	<div class="nav-top"><a href="">网站首页</a></div>
   	<h1>用户添加成功</h1>
-  	<h2>请您继续使用</h2>
+  	<h2>user add successly</h2>
 	<div style="clear:both"></div>
    	<div class="footer">
    	实验2：MVC编程与云平台部署@2014 1120310202-王立群
